@@ -1,0 +1,8 @@
+name = "bakend"
+main = "src/index.ts"
+compatibility_date = "2024-10-14"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+DATABASE_URL= "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZDQzYzY3MDQtYTk5OC00YjBjLTlhYzAtY2FhNDNkODM4NzA3IiwidGVuYW50X2lkIjoiZTE1N2JkM2UwMDFmOWMwMGNmOWJlZjM4ZDA2YWNjZDFjYmE2MWQ5Zjc2MTQ5NDkxYTJhYjY2ZTRlOGJkZDhlYyIsImludGVybmFsX3NlY3JldCI6IjM3ZTk1MTk4LTkyYWYtNDU2My1iZDlhLTBiMTMyMTJiNTIwOCJ9.MC6cl7vClFMGT3axzHkHui-Ss4Eu7u8_3SdS8fdRHvg"
+JWT_SECRET = "idfnocfweiomdpw"
